@@ -1,0 +1,13 @@
+ProductID;ProductName;CategoryID;UnitPrice
+101;Laptop;1;800.00
+102;Smartphone;1;600.00
+103;Jeans;2;50.00
+104;TV;3;700.00
+105;Shoes;2;80.00
+106;Microwave;3;150.00
+107;Headphones;1;150.00
+108;Dress;2;70.00
+109;Refrigerator;3;500.00
+110;Tablet;1;400.00
+111;Jacket;2;60.00
+112;Washing Machine;3;300.00
