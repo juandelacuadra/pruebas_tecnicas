@@ -9,7 +9,7 @@ Actualmente hay preparadas pruebas en SQL y PySpark. El repositorio está en con
 
 #### Nota: deberás realizar los ejercicios en un entorno SQL. Yo uso Navicat p.e.
 
-1. **[SQL - 1 - Nivel Básico](\notebooks\sql\SQL_1_Basico.ipynb)**
+1. **[SQL - 1 - Nivel Básico](notebooks\sql\SQL_1_Basico.ipynb)**
 
 1. **[SQL - 2 - Nivel Intermedio](\notebooks\sql\SQL_2_Intermedio.ipynb)**
 
