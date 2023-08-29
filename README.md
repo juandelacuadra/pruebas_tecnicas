@@ -11,10 +11,10 @@ Actualmente hay preparadas pruebas en SQL y PySpark. El repositorio está en con
 
 1. **[SQL - 1 - Nivel Básico](notebooks/sql/SQL_1_Basico.ipynb)**
 
-1. **[SQL - 2 - Nivel Intermedio](\notebooks\sql\SQL_2_Intermedio.ipynb)**
+1. **[SQL - 2 - Nivel Intermedio](notebooks/sql/SQL_2_Intermedio.ipynb)**
 
-1. **[SQL - 3 - Nivel Avanzado](\notebooks\sql\SQL_3_Avanzado.ipynb)**
+1. **[SQL - 3 - Nivel Avanzado](notebooks/sql/SQL_3_Avanzado.ipynb)**
 
 ### Ejercicios de PySpark
 
-1. **[PySpark - 1 - Nivel Básico](pruebas_tecnicas\notebooks\pyspark\PySpark_1_Basico.ipynb)**
+1. **[PySpark - 1 - Nivel Básico](notebooks/pyspark/PySpark_1_Basico.ipynb)**
